@@ -1,2 +1,2 @@
 # PowerShell
-PowerShell scripts
+Sample PowerShell scripts.
